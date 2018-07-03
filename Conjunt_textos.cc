@@ -283,6 +283,6 @@ void Conjunt_textos::info_text(){
  * 
  *  last update: 
  * 
- *  03/07/2018 12:49:52
+ *  03/07/2018 13:41:47
  * 
  */

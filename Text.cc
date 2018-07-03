@@ -198,6 +198,6 @@ map<string, int> Text::retorna_taula(){
  * 
  *  last update: 
  * 
- *  03/07/2018 12:49:52
+ *  03/07/2018 13:41:47
  * 
  */
