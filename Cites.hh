@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 /** @file Cites.hh
     @brief Especificació de la clase Cites
 */
@@ -107,3 +109,12 @@ void mostra_cita();
 
 };
 #endif
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:49:52
+ * 
+ */

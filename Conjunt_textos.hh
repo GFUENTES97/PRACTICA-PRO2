@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 /** @file Conjunt_textos.hh
     @brief Especificació de la clase Conjunt_textos
 */
@@ -152,3 +154,12 @@ void eliminar_cita(string reff);
 
 };
 #endif
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:49:52
+ * 
+ */

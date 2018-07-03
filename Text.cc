@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include "Text.hh"
 #include <sstream>
 #include <string>
@@ -190,3 +192,12 @@ map<string, int> Text::retorna_taula(){
 
   return taula;
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:49:52
+ * 
+ */

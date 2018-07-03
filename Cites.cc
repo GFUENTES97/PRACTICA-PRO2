@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include "Cites.hh"
 #include <sstream>
 #include <string>
@@ -115,3 +117,12 @@ void Cita::mostra_cita(){
     cout << autor;
     cout << titol << endl;
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:49:52
+ * 
+ */

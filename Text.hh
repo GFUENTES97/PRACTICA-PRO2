@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 /** @file Text.hh
     @brief Especificació de la clase Text
 */
@@ -120,3 +122,12 @@ map<string, int> retorna_taula();
 
 };
 #endif
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:49:52
+ * 
+ */

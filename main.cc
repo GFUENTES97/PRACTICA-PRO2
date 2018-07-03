@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include "Conjunt_textos.hh"
 #include "Text.hh"
 #include "Cites.hh"
@@ -129,3 +131,12 @@ else break;
 }   
     
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:49:52
+ * 
+ */
